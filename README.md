@@ -26,7 +26,7 @@
 ### Основной интерфейс
 
 
-| <img src="https://github.com/rafbull/ServicesAppVK/assets/148709354/b52173ca-501e-464a-ba88-3a70deacfbc8" width="400"> | <img src="https://github.com/rafbull/ServicesAppVK/assets/148709354/f517555c-e000-4e66-9120-bec0d5f82ce7" width="400"> | <img src="https://github.com/rafbull/ServicesAppVK/assets/148709354/f385cc7f-8efc-4025-ab43-c8be4f818f1b" width="400">
+| <img src="https://github.com/rafbull/ServicesAppVK/assets/148709354/b52173ca-501e-464a-ba88-3a70deacfbc8" width="600"> | <img src="https://github.com/rafbull/ServicesAppVK/assets/148709354/f517555c-e000-4e66-9120-bec0d5f82ce7" width="600"> | <img src="https://github.com/rafbull/ServicesAppVK/assets/148709354/f385cc7f-8efc-4025-ab43-c8be4f818f1b" width="600">
 | --- | --- | --- |
 
 ---
